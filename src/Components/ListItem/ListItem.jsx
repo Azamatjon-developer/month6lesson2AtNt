@@ -7,6 +7,7 @@ const ListItem = () => {
     "sports",
     "Entertainment",
     "Health",
+    "Sign"
   ];
 
   return (
